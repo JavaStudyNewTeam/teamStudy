@@ -14,4 +14,8 @@ public class Calculator {
         System.out.println("a - b = " + (a - b) );
     }
 
+    public void multiTwoNumber(int a , int b) {
+
+        System.out.println("a * b! = " + (a * b) );
+    }
 }
