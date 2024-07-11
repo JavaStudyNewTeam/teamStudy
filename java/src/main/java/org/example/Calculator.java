@@ -7,15 +7,17 @@ public class Calculator {
 
 
     }
-    public void minusTwoNumber(int a , int b) {
+    public void minusTwoNumber(int a , int b)
+    {
         System.out.println("a - b = " + (a - b) );
     }
-    public void sumTwoNumber(int a , int b) {
+    public void sumTwoNumber(int a , int b)
+    {
         System.out.println("a - b = " + (a - b) );
     }
 
     public void multiTwoNumber(int a , int b) {
 
-        System.out.println("a * b! = " + (a * b) );
+        System.out.println("a * b!!!! = " + (a * b) );
     }
 }
